@@ -1,4 +1,4 @@
 # Table of contents
 
-* [mothership](README.md)
+* [Float manual](README.md)
 
